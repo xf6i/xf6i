@@ -68,7 +68,7 @@ I’m all about clean code, user-friendly designs, and solutions that make a dif
 ## 🤝 Let’s Connect!  
 
 I’d love to hear from you, whether it’s feedback on my work, collaboration ideas, or just to say hi. Here’s where you can find me:   
-- **GitHub**: [ytrbi](https://github.com/ytrbi)
+- **GitHub**: [ytrbi](https://github.com/xf6i)
 - **LinkedIn**: [in/yaturbi](https://www.linkedin.com/in/yaturbi/)
 
 
