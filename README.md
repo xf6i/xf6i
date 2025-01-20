@@ -23,8 +23,9 @@
 </div>
 
 
-
+<!--
 <img src="https://github.com/pr0sizar/pr0sizar/assets/151997489/4d81f809-a965-490f-9d65-f4f965be5712" alt="pr0sizar character" align="left" width="20%">
+-->
 </div>
 
 ```javascript
@@ -33,8 +34,8 @@ const AboutMe = {
     age: 21,
     degree: "B.S. in Computer Science",
     programmingFocus: "advancing web development skills",
-    familiarity: ["Python", "JavaScript", "React.js", "Node.js", "Java", "C#", "CSS"],
-    role: "web developer",
+    familiarity: ["Python", "JavaScript", "Java", "C#"],
+    role: "MERN stack web developer",
 };
 ```
 
