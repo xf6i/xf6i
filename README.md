@@ -49,7 +49,7 @@ const AboutMe = {
 
 I love building stuff and solving problems using:  
 - **Frontend**: HTML, CSS, JavaScript, React – basically anything that makes the web look awesome and work seamlessly, 
-- **Backend**: Javascript (Node.js, Bun.js) - I focus on developing scalable and efficient server-side logic,
+- **Backend**: Javascript (Node.js, Bun.js, Express..) - I focus on developing scalable and efficient server-side logic,
 - **Databases**: SQL – because organized data makes everything better,
 - **Other Cool Tools**: Figma (designing is fun too!), Git, GitHub,
 - **IDEs**: I primarily work in Neovim, enhancing productivity with its powerful features, alongside using VSCode for specific tasks,
