@@ -39,14 +39,11 @@ const AboutMe = {
 };
 ```
 
-<br>
-<br>
+
 
 <!--<h3 align="center"><em>Hello, World! 🌎</em>
 <br><p>I'm Yara Alharbi, a Web Developer ✨</p>-->
 
-<br>
-<br>
 
 ## 🛠️ What I Work With  
 
