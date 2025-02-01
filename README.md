@@ -14,6 +14,9 @@
 
 
 <div align="center">
+  
+⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢
+﹉﹉﹉﹉﹉﹉﹉﹉﹉୨୧﹉﹉﹉﹉﹉﹉﹉﹉
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=700&size=25&duration=3000&pause=1500&color=BFCDE0&center=true&vCenter=true&width=435&lines=Hi%2C+I%C2%B4m+Yara+;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
 <div align=center>
