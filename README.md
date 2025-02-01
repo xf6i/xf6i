@@ -42,6 +42,10 @@ const AboutMe = {
 };
 ```
 
+<div align=center>
+  
+︶⊹︶︶୨୧︶︶⊹︶
+</div>
 
 
 <!--<h3 align="center"><em>Hello, World! 🌎</em>
@@ -49,7 +53,7 @@ const AboutMe = {
 
 
 
-## 🛠️ What I Work With  
+## 🛠️ What I Work With 
 
 I love building stuff and solving problems using:  
 - **Frontend**: HTML, CSS, JavaScript, React – basically anything that makes the web look awesome and work seamlessly, 
@@ -59,6 +63,10 @@ I love building stuff and solving problems using:
 - **IDEs**: I primarily work in Neovim, enhancing productivity with its powerful features, alongside using VSCode for specific tasks,
 - **Operating System**: I primarily use macOS for development, as it offers a stable and powerful environment. I am also experienced with Windows and Linux systems,
   
+<div align=center>
+
+· · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+</div>
 
 ## 👨‍💻 About Me  
 
@@ -69,6 +77,11 @@ When I’m not coding, I’m probably:
 
 I’m all about clean code, user-friendly designs, and solutions that make a difference.  
 
+<div align=center>
+
+· · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+</div>
+
 ## 🤝 Let’s Connect!  
 
 I’d love to hear from you, whether it’s feedback on my work, collaboration ideas, or just to say hi. Here’s where you can find me:   
@@ -77,6 +90,11 @@ I’d love to hear from you, whether it’s feedback on my work, collaboration i
 
 
 Thanks for stopping by! 😊  
+
+<div align=center>
+
+· · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+</div>
 
 
   >  ### Programming isn’t about what you know; it’s about what you can figure out.
