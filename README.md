@@ -44,6 +44,7 @@ const AboutMe = {
 <!--<h3 align="center"><em>Hello, World! 🌎</em>
 <br><p>I'm Yara Alharbi, a Web Developer ✨</p>-->
 
+₊✩‧₊˚ ཐིཋྀ ˚₊✩‧₊
 
 ## 🛠️ What I Work With  
 
