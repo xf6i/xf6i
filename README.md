@@ -31,16 +31,31 @@
 -->
 </div>
 
-```javascript
+<table>
+  <tr>
+    <td>
+      <!-- Pre/code block with language class -->
+      <pre><code class="language-javascript">
 const AboutMe = {
-    name: "Yara Alharbi",
-    age: 21,
-    degree: "B.S. in Computer Science",
-    programmingFocus: "advancing web development skills",
-    familiarity: ["Python", "JavaScript", "Java", "C#"],
-    role: "MERN stack web developer",
+  name: "Yara Alharbi",
+  age: 21,
+  degree: "B.S. in Computer Science",
+  programmingFocus: "advancing web development skills",
+  familiarity: ["Python", "JavaScript", "Java", "C#"],
+  role: "MERN stack web developer",
 };
-```
+      </code></pre>
+    </td>
+    <td style="text-align: center;">
+      <!-- Image cell -->
+      <img
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRldDF1OXNxY2h2dHE5YjhnZGs4M3lwcXg4d3Y3OHc1d3E0ZHZoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9ZaUiYDzDltKDe/giphy.gif"
+        alt="About Me"
+      >
+    </td>
+  </tr>
+</table>
+
 
 <div align=center>
   
