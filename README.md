@@ -3,8 +3,6 @@
 
 <p align="right"> 
   
-  ![Visitor Count](https://profile-counter.glitch.me/xf6i/count.svg) 
-  
   </p>
 
 <div align="center"> 
@@ -53,9 +51,8 @@ const AboutMe = {
     <td style="text-align: center;">
       <!-- Image cell -->
       <img
-        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRldDF1OXNxY2h2dHE5YjhnZGs4M3lwcXg4d3Y3OHc1d3E0ZHZoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9ZaUiYDzDltKDe/giphy.gif"
-        alt="About Me"
-      >
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRldDF1OXNxY2h2dHE5YjhnZGs4M3lwcXg4d3Y3OHc1d3E0ZHZoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9ZaUiYDzDltKDe/giphy.gif"
+        alt="About Me" />
     </td>
   </tr>
 </table>
@@ -120,10 +117,50 @@ Thanks for stopping by! 😊
 
 <p align="center"> <a href="https://github.com/ytrbi"><img src="https://skillicons.dev/icons?i=python,js,nodejs,jquery,express,bun,cs,java,mysql,git,html,css"> </a> </p>
 <!---->
+<div align="center">
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0261.gif" border="0" alt="animated-line-image-0379" /></a></div>
+
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0,
+        "name": "Riyadh"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.7152, 
+              24.7136  
+            ],
+            [
+              46.8, 
+              25.8  
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
+
+```
+
+
+
 <details>
   <summary>Github Stats ⚡</summary>
    <br>
    <div align="center"> 
+
+
       
 <!-- ![status](https://api.statusbadges.me/badge/status/1200487906305904712?style=for-the-badge&labelColor=0D1117)
 ![vscode](https://api.statusbadges.me/badge/vscode/1200487906305904712?style=for-the-badge&labelColor=0D1117)
