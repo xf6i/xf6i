@@ -114,7 +114,7 @@ Thanks for stopping by! 😊
 
   >  ### Programming isn’t about what you know; it’s about what you can figure out.
 
-<p align="center"> <a href="https://github.com/ytrbi"><img src="https://skillicons.dev/icons?i=python,js,nodejs,jquery,express,cs,java,mysql,git,html,css"> </a> </p>
+<p align="center"> <a href="https://github.com/ytrbi"><img src="https://skillicons.dev/icons?i=python,js,nodejs,jquery,express,bun,cs,java,mysql,git,html,css"> </a> </p>
 <!---->
 <details>
   <summary>Github Stats ⚡</summary>
