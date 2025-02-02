@@ -127,6 +127,21 @@ Thanks for stopping by! 😊
 <div align="center">
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0261.gif" border="0" alt="animated-line-image-0379" /></a></div>
 
+<details>
+  <summary>The Process of building project</summary>
+  
+  ```mermaid
+flowchart TD
+    A[Project Idea: Make the world awesome!] --> B[Write code passionately]
+    B --> C[Grab coffee: Fuel for genius]
+    C --> D[Realize bugs exist: Oops, what did I break?]
+    D --> E[Debugging marathon: Ctrl+C, Ctrl+V, repeat...]
+    E --> F[Merge conflicts: Team meeting - Who broke the build?]
+    F --> H[Production crash: Time to panic or pretend to]
+    H --> J[Celebrate success: Pizza party & high fives!]
+```
+</details>
+
 
 <details>
   <summary>Github Stats ⚡</summary>
