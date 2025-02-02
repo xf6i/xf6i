@@ -132,13 +132,16 @@ Thanks for stopping by! 😊
   
   ```mermaid
 flowchart TD
-    A[Project Idea: Make the world awesome!] --> B[Write code passionately]
-    B --> C[Grab coffee: Fuel for genius]
-    C --> D[Realize bugs exist: Oops, what did I break?]
-    D --> E[Debugging marathon: Ctrl+C, Ctrl+V, repeat...]
-    E --> F[Merge conflicts: Team meeting - Who broke the build?]
-    F --> H[Production crash: Time to panic or pretend to]
-    H --> J[Celebrate success: Pizza party & high fives!]
+    A[Project Idea: Make something awesome!] 
+    A --> B[Grab coffee: Essential fuel]
+    B --> C[Start coding: Feeling like a genius]
+    C --> D[Oops, bugs appear: Where did I go wrong?]
+    D --> E[Debugging spiral: Stack Overflow deep dive...]
+    E --> F[Fix one bug, find three more: Classic!]
+    F --> G[Finally, it works: Victory dance]
+    G --> H[Refactor code: Wait, this is a mess!]
+    H --> I[Final testing: Please, no more bugs]
+    I --> J[Success! Time to celebrate! 🎉]
 ```
 </details>
 
