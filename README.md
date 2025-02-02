@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b2d42&height=120&section=header"/>
+
 
 <p align="right"> 
   
@@ -124,8 +124,8 @@ Thanks for stopping by! 😊
 | **Other Tools**        | Git <img src="https://skillicons.dev/icons?i=git" width="15"> / GitHub <img src="https://skillicons.dev/icons?i=github" width="15"> / PowerBi <img src="https://skillicons.dev/icons?i=powerbi" width="15"> / Terminal <img src="https://skillicons.dev/icons?i=bash" width="15"> / Nvim <img src="https://skillicons.dev/icons?i=neovim" width="15"> / VSCode <img src="https://skillicons.dev/icons?i=vscode" width="15"> / Figma <img src="https://skillicons.dev/icons?i=figma" width="15"> / Nmap <img src="https://skillicons.dev/icons?i=nmap" width="15"> / wireshark <img src="https://skillicons.dev/icons?i=wireshark" width="15"> / Postman <img src="https://skillicons.dev/icons?i=postman" width="15"> / FastAPI <img src="https://skillicons.dev/icons?i=fastapi" width="15">  |
 
 <!---->
-<div align="center">
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0261.gif" border="0" alt="animated-line-image-0379" /></a></div>
+<div align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDg0M3Z0ZmlweXF1MG8wenhmdXIwN216dGZ2em04a3Fzb3Q4M3d4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif" border="0" alt="animated-line-image-0379" width = "100%" height="1"/>
+</div>
 
 <details>
   <summary>The Process of building project</summary>
