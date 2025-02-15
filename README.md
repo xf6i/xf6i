@@ -1,10 +1,3 @@
-
-
-
-<p align="right"> 
-  
-  </p>
-
 <div align="center"> 
 
   <!-- 
@@ -77,7 +70,7 @@ I love building stuff and solving problems using:
 - **Databases**: SQL – because organized data makes everything better,
 - **Other Cool Tools**: Figma (designing is fun too!), Git, GitHub,
 - **IDEs**: I primarily work in Neovim, enhancing productivity with its powerful features, alongside using VSCode for specific tasks,
-- **Operating System**: I primarily use macOS for development, as it offers a stable and powerful environment. I am also experienced with Windows and Linux systems,
+- **Operating System**: I primarily use macOS for development, as it offers a stable and powerful environment. I am also experienced with Windows and Linux systems, I use Ghostty terminal with Fish shell btw.
   
 <div align=center>
 
@@ -117,12 +110,14 @@ Thanks for stopping by! 😊
 
 | Category               | Tools                                                                                                                                                                                                                                                                                                               |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages** | JavaScript <img src="https://skillicons.dev/icons?i=javascript" width="15"> / Java <img src="https://skillicons.dev/icons?i=java" width="15"> / C# <img src="https://skillicons.dev/icons?i=cs" width="15"> / Python <img src="https://skillicons.dev/icons?i=python" width="15"> |
-| **Front-end**          | HTML5 <img src="https://skillicons.dev/icons?i=html" width="15"> / CSS3 <img src="https://skillicons.dev/icons?i=css" width="15"> / JavaScript <img src="https://skillicons.dev/icons?i=javascript" width="15"> / React <img src="https://skillicons.dev/icons?i=react" width="15"> / TailwindCSS <img src="https://skillicons.dev/icons?i=tailwindcss" width="15"> / JQuery <img src="https://skillicons.dev/icons?i=jquery" width="15">|
-| **Back-end**           | Node.js <img src="https://skillicons.dev/icons?i=nodejs" width="15"> / Express.js <img src="https://skillicons.dev/icons?i=express" width="15"> / Bun.js <img src="https://skillicons.dev/icons?i=bun" width="15">                    |
-| **Databases**          | MySQL <img src="https://skillicons.dev/icons?i=mysql" width="15"> / MongoDB  <img src="https://skillicons.dev/icons?i=mongodb" width="15">                     |
-| **Other Tools**        | Git <img src="https://skillicons.dev/icons?i=git" width="15"> / GitHub <img src="https://skillicons.dev/icons?i=github" width="15"> / PowerBi <img src="https://skillicons.dev/icons?i=powerbi" width="15"> / Terminal <img src="https://skillicons.dev/icons?i=bash" width="15"> / Nvim <img src="https://skillicons.dev/icons?i=neovim" width="15"> / VSCode <img src="https://skillicons.dev/icons?i=vscode" width="15"> / Figma <img src="https://skillicons.dev/icons?i=figma" width="15"> / Nmap <img src="https://skillicons.dev/icons?i=nmap" width="15"> / wireshark <img src="https://skillicons.dev/icons?i=wireshark" width="15"> / Postman <img src="https://skillicons.dev/icons?i=postman" width="15"> / FastAPI <img src="https://skillicons.dev/icons?i=fastapi" width="15">  |
+| **Programming Languages** | JavaScript <img src="https://skillicons.dev/icons?i=javascript" width="15"> / TypeScript <img src="https://skillicons.dev/icons?i=typescript" width="15">   / Java <img src="https://skillicons.dev/icons?i=java" width="15"> / C# <img src="https://skillicons.dev/icons?i=cs" width="15"> / Python <img src="https://skillicons.dev/icons?i=python" width="15"> |
+| **Front-end**          | HTML5 <img src="https://skillicons.dev/icons?i=html" width="15"> / CSS3 <img src="https://skillicons.dev/icons?i=css" width="15"> / React <img src="https://skillicons.dev/icons?i=react" width="15"> / TailwindCSS <img src="https://skillicons.dev/icons?i=tailwindcss" width="15"> / JQuery <img src="https://skillicons.dev/icons?i=jquery" width="15">|
+| **Back-end**           | Node.js <img src="https://skillicons.dev/icons?i=nodejs" width="15"> / Express.js <img src="https://skillicons.dev/icons?i=express" width="15"> / Bun.js <img src="https://skillicons.dev/icons?i=bun" width="15"> / NPM <img src="https://skillicons.dev/icons?i=npm" width="15">                     |
+| **Databases**          | MySQL <img src="https://skillicons.dev/icons?i=mysql" width="15"> / MongoDB  <img src="https://skillicons.dev/icons?i=mongodb" width="15">  / SQLite <img src="https://skillicons.dev/icons?i=sqlite" width="15">                     |
+| **Other Tools**        | Git <img src="https://skillicons.dev/icons?i=git" width="15"> / GitHub <img src="https://skillicons.dev/icons?i=github" width="15"> / PowerBi <img src="https://skillicons.dev/icons?i=powerbi" width="15"> / Terminal <img src="https://skillicons.dev/icons?i=bash" width="15"> / Nvim <img src="https://skillicons.dev/icons?i=neovim" width="15"> / VSCode <img src="https://skillicons.dev/icons?i=vscode" width="15"> / Figma <img src="https://skillicons.dev/icons?i=figma" width="15"> / Nmap <img src="https://skillicons.dev/icons?i=nmap" width="15"> / wireshark <img src="https://skillicons.dev/icons?i=wireshark" width="15"> / Postman <img src="https://skillicons.dev/icons?i=postman" width="15"> / FastAPI <img src="https://skillicons.dev/icons?i=fastapi" width="15"> / Linux <img src="https://skillicons.dev/icons?i=linux" width="15"> / MACOS <img src="https://skillicons.dev/icons?i=apple" width="15">    |
 
+
+<p align="right">and more..</p>
 <!---->
 <div align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDg0M3Z0ZmlweXF1MG8wenhmdXIwN216dGZ2em04a3Fzb3Q4M3d4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif" border="0" alt="animated-line-image-0379" width = "100%" height="1"/>
 </div>
