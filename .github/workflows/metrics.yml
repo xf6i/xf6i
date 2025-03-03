@@ -28,7 +28,6 @@ jobs:
 
           # Options
           user: xf6i
-          template: classic
           base: header, activity, repositories, metadata
           base_hireable: yes
           config_timezone: Asia/Riyadh
