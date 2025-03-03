@@ -89,7 +89,8 @@ I’m all about clean code, user-friendly designs, and solutions that make a dif
 <details>
   <summary>Extra</summary>
   
-  ![Metrics](https://metrics.lecoq.io/xf6i?template=classic&stars=1&topics=1&leetcode=1&fortune=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&topics=false&topics.mode=labels&topics.sort=stars&topics.limit=15&stars=false&stars.limit=4&calendar=false&calendar.limit=1&leetcode=false&leetcode.user=xf6i&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&fortune=false&config.timezone=Asia%2FRiyadh)
+![Metrics](/github-metrics.svg)
+
 </details>
 
 <div align=center>
