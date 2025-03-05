@@ -129,23 +129,26 @@ Thanks for stopping by! 😊
 <div align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDg0M3Z0ZmlweXF1MG8wenhmdXIwN216dGZ2em04a3Fzb3Q4M3d4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif" border="0" alt="animated-line-image-0379" width = "100%" height="1"/>
 </div>
 
+<!--
 <details>
   <summary>The Process of building project</summary>
   
   ```mermaid
 flowchart TD
     A[Project Idea: Make something awesome!] 
-    A --> B[Grab coffee: Essential fuel]
-    B --> C[Start coding: Feeling like a genius]
-    C --> D[Oops, bugs appear: Where did I go wrong?]
-    D --> E[Debugging spiral: Stack Overflow deep dive...]
-    E --> F[Fix one bug, find three more: Classic!]
-    F --> G[Finally, it works: Victory dance]
-    G --> H[Refactor code: Wait, this is a mess!]
-    H --> I[Final testing: Please, no more bugs]
-    I --> J[Success! Time to celebrate! 🎉]
+    A  B[Grab coffee: Essential fuel]
+    B  C[Start coding: Feeling like a genius]
+    C  D[Oops, bugs appear: Where did I go wrong?]
+    D  E[Debugging spiral: Stack Overflow deep dive...]
+    E  F[Fix one bug, find three more: Classic!]
+    F  G[Finally, it works: Victory dance]
+    G  H[Refactor code: Wait, this is a mess!]
+    H  I[Final testing: Please, no more bugs]
+    I  J[Success! Time to celebrate! 🎉]
 ```
 </details>
+
+-->
 
 
 <details>
