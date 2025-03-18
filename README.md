@@ -101,7 +101,7 @@ I’m all about clean code, user-friendly designs, and solutions that make a dif
 ## 🤝 Let’s Connect!  
 
 I’d love to hear from you, whether it’s feedback on my work, collaboration ideas, or just to say hi. Here’s where you can find me:   
-- **GitHub**: [ytrbi](https://github.com/xf6i)
+- **GitHub**: [xf6i](https://github.com/xf6i)
 - **LinkedIn**: [in/yaturbi](https://www.linkedin.com/in/yaturbi/)
 
 
@@ -119,9 +119,9 @@ Thanks for stopping by! 😊
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Programming Languages** | JavaScript <img src="https://skillicons.dev/icons?i=javascript" width="15"> / TypeScript <img src="https://skillicons.dev/icons?i=typescript" width="15">   / Java <img src="https://skillicons.dev/icons?i=java" width="15"> / C# <img src="https://skillicons.dev/icons?i=cs" width="15"> / Python <img src="https://skillicons.dev/icons?i=python" width="15"> |
 | **Front-end**          | HTML5 <img src="https://skillicons.dev/icons?i=html" width="15"> / CSS3 <img src="https://skillicons.dev/icons?i=css" width="15"> / React <img src="https://skillicons.dev/icons?i=react" width="15"> / TailwindCSS <img src="https://skillicons.dev/icons?i=tailwindcss" width="15"> / JQuery <img src="https://skillicons.dev/icons?i=jquery" width="15">|
-| **Back-end**           | Node.js <img src="https://skillicons.dev/icons?i=nodejs" width="15"> / Express.js <img src="https://skillicons.dev/icons?i=express" width="15"> / Bun.js <img src="https://skillicons.dev/icons?i=bun" width="15"> / NPM <img src="https://skillicons.dev/icons?i=npm" width="15">                     |
-| **Databases**          | MySQL <img src="https://skillicons.dev/icons?i=mysql" width="15"> / MongoDB  <img src="https://skillicons.dev/icons?i=mongodb" width="15">  / SQLite <img src="https://skillicons.dev/icons?i=sqlite" width="15">                     |
-| **Other Tools**        | Git <img src="https://skillicons.dev/icons?i=git" width="15"> / GitHub <img src="https://skillicons.dev/icons?i=github" width="15"> / PowerBi <img src="https://skillicons.dev/icons?i=powerbi" width="15"> / Terminal <img src="https://skillicons.dev/icons?i=bash" width="15"> / Nvim <img src="https://skillicons.dev/icons?i=neovim" width="15"> / VSCode <img src="https://skillicons.dev/icons?i=vscode" width="15"> / Figma <img src="https://skillicons.dev/icons?i=figma" width="15"> / Nmap <img src="https://skillicons.dev/icons?i=nmap" width="15"> / wireshark <img src="https://skillicons.dev/icons?i=wireshark" width="15"> / Postman <img src="https://skillicons.dev/icons?i=postman" width="15"> / FastAPI <img src="https://skillicons.dev/icons?i=fastapi" width="15"> / Linux <img src="https://skillicons.dev/icons?i=linux" width="15"> / MACOS <img src="https://skillicons.dev/icons?i=apple" width="15">    |
+| **Back-end**           | Node.js <img src="https://skillicons.dev/icons?i=nodejs" width="15"> / Express.js <img src="https://skillicons.dev/icons?i=express" width="15"> / Bun.js <img src="https://skillicons.dev/icons?i=bun" width="15"> / NPM <img src="https://skillicons.dev/icons?i=npm" width="15">  / HonoJs <img src="https://skillicons.dev/icons?i=hono" width="15">                  |
+| **Databases**          | MySQL <img src="https://skillicons.dev/icons?i=mysql" width="15"> / Prisma ORM <img src="https://skillicons.dev/icons?i=prisma" width="15">                    |
+| **Other Tools**        | Git <img src="https://skillicons.dev/icons?i=git" width="15"> / GitHub <img src="https://skillicons.dev/icons?i=github" width="15"> / PowerBi <img src="https://skillicons.dev/icons?i=powerbi" width="15"> / Terminal <img src="https://skillicons.dev/icons?i=bash" width="15"> / Nvim <img src="https://skillicons.dev/icons?i=neovim" width="15"> / VSCode <img src="https://skillicons.dev/icons?i=vscode" width="15"> / Figma <img src="https://skillicons.dev/icons?i=figma" width="15"> / Nmap <img src="https://skillicons.dev/icons?i=nmap" width="15"> / wireshark <img src="https://skillicons.dev/icons?i=wireshark" width="15"> / Postman <img src="https://skillicons.dev/icons?i=postman" width="15"> / Supabase <img src="https://skillicons.dev/icons?i=supabase" width="15"> / Linux <img src="https://skillicons.dev/icons?i=linux" width="15"> / MacOS <img src="https://skillicons.dev/icons?i=apple" width="15">    |
 
 
 <p align="right">and more..</p>
@@ -129,26 +129,23 @@ Thanks for stopping by! 😊
 <div align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDg0M3Z0ZmlweXF1MG8wenhmdXIwN216dGZ2em04a3Fzb3Q4M3d4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif" border="0" alt="animated-line-image-0379" width = "100%" height="1"/>
 </div>
 
-<!--
 <details>
   <summary>The Process of building project</summary>
   
   ```mermaid
 flowchart TD
-    A[Project Idea: Make something awesome!] 
-    A  B[Grab coffee: Essential fuel]
-    B  C[Start coding: Feeling like a genius]
-    C  D[Oops, bugs appear: Where did I go wrong?]
-    D  E[Debugging spiral: Stack Overflow deep dive...]
-    E  F[Fix one bug, find three more: Classic!]
-    F  G[Finally, it works: Victory dance]
-    G  H[Refactor code: Wait, this is a mess!]
-    H  I[Final testing: Please, no more bugs]
-    I  J[Success! Time to celebrate! 🎉]
+    A[💡 Project Idea: Make something awesome!] 
+    A --> B[☕ Grab coffee]
+    B --> C[🛠️ Start coding: Feeling like a genius]
+    C --> D[🐞 Oops, bugs appear: Where did I go wrong?]
+    D --> E[🔍 Debugging: ChatGPT and 100 tabs open...]
+    E --> F[🛠️ Fix one bug, find three more]
+    F --> G[🎉 Finally, it works: Victory dance]
+    G --> H[🔍 Final testing: Please, no more bugs]
+    H --> I[💡 New Project Idea discoverd!]
 ```
 </details>
 
--->
 
 
 <details>
