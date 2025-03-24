@@ -86,12 +86,6 @@ When I’m not coding, I’m probably:
 
 I’m all about clean code, user-friendly designs, and solutions that make a difference.  
 
-<details>
-  <summary>Extra</summary>
-  
-![Metrics](/github-metrics.svg)
-
-</details>
 
 <div align=center>
 
