@@ -66,8 +66,8 @@ const AboutMe = {
 
 I love building stuff and solving problems using:  
 - **Frontend**: HTML, CSS, JavaScript, React – basically anything that makes the web look awesome and work seamlessly, 
-- **Backend**: Javascript (Node.js, Bun.js, Express..) - I focus on developing scalable and efficient server-side logic,
-- **Databases**: SQL – because organized data makes everything better,
+- **Backend**: Javascript (Node.js, Bun.js, Express, Hono..) - I focus on developing scalable and efficient server-side logic,
+- **Databases**:  SQL, Prisma ORM – because organized data and smooth database interactions make everything better.
 - **Other Cool Tools**: Figma (designing is fun too!), Git, GitHub,
 - **IDEs**: I primarily work in Neovim, enhancing productivity with its powerful features, alongside using VSCode for specific tasks,
 - **Operating System**: I primarily use macOS for development, as it offers a stable and powerful environment. I am also experienced with Windows and Linux systems, I use Ghostty terminal with Fish shell btw.
@@ -130,7 +130,7 @@ Thanks for stopping by! 😊
 </div>
 
 <details>
-  <summary>The Process of building project</summary>
+  <summary> 🛠️ The Process of building project </summary>
   
   ```mermaid
 flowchart TD
@@ -149,7 +149,7 @@ flowchart TD
 
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>👾 Github Status</summary>
    <br>
    <div align="center"> 
 
