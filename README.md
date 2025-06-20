@@ -77,7 +77,7 @@ I love building stuff and solving problems using:
 · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
 </div>
 
-## 👨‍💻 About Me  
+## 👩‍💻 About Me  
 
 When I’m not coding, I’m probably:  
 - Learning something new (there’s always more to learn, right?)  
