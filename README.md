@@ -126,23 +126,23 @@ flowchart TD
 <!-- <details>
   <summary>👾 Github Status</summary>
    <br>
-   <div align="center"> -->
+   <div align="center"> 
 
 
       
-<!-- ![status](https://api.statusbadges.me/badge/status/1200487906305904712?style=for-the-badge&labelColor=0D1117)
+<![status](https://api.statusbadges.me/badge/status/1200487906305904712?style=for-the-badge&labelColor=0D1117)
 ![vscode](https://api.statusbadges.me/badge/vscode/1200487906305904712?style=for-the-badge&labelColor=0D1117)
-[![spotify](https://api.statusbadges.me/badge/spotify/1200487906305904712?style=for-the-badge&labelColor=0D1117)](https://api.statusbadges.me/openspotify/1200487906305904712) -->
-<!-- </div>
+[![spotify](https://api.statusbadges.me/badge/spotify/1200487906305904712?style=for-the-badge&labelColor=0D1117)](https://api.statusbadges.me/openspotify/1200487906305904712) 
+</div>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=xf6i&show_icons=true&count_private=true&bg_color=0d1117&color=50CEFF&line=076FA5&point=3F005C&area=true&hide_border=true" alt="snkfranco github stats" /> 
   <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xf6i&layout=compact&bg_color=0d1117&color=50CEFF&line=076FA5&point=3F005C&area=true&hide_border=true" />
-</div>  --> -->
-<!--
+</div>  
+
 ## GitHub Trophy
 <div align="center"
 <a href="https://github.com/ryo-ma/github-profile-trophy" >
     <img src="https://github-profile-trophy.vercel.app/?username=ytrbi&theme=onedark&hide_border=true" alt="trophy" style="max-width: 100%;" align="center">
 </a>
-</div>-->
-</details>
+</div>
+</details>-->
