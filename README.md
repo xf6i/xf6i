@@ -1,12 +1,5 @@
 <div align="center"> 
 
-  <!-- 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=3776AB)&nbsp;
-<!--![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)-->
-<!--
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
--->
-
 <div align=center>
 
 ₊✩‧₊˚ ཐིཋྀ ˚₊✩‧₊
@@ -20,10 +13,6 @@
 
 </div>
 
-
-<!--
-<img src="https://github.com/pr0sizar/pr0sizar/assets/151997489/4d81f809-a965-490f-9d65-f4f965be5712" alt="pr0sizar character" align="left" width="20%">
--->
 </div>
 
 <table>
@@ -56,20 +45,14 @@ const AboutMe = {
 ︶⊹︶︶୨୧︶︶⊹︶
 </div>
 
-
-<!--<h3 align="center"><em>Hello, World! 🌎</em>
-<br><p>I'm Yara Alharbi, a Web Developer ✨</p>-->
-
-
-
 ## 🛠️ What I Work With 
 
 I love building stuff and solving problems using:  
-- **Frontend**: HTML, CSS, JavaScript, React – basically anything that makes the web look awesome and work seamlessly, 
+- **Frontend**: HTML, CSS, JavaScript, React – I focus on functionality and usability; styling is not really my thing. I build features, not color palettes. 
 - **Backend**: Javascript (Node.js, Bun.js, Express, Hono..) - I focus on developing scalable and efficient server-side logic,
 - **Databases**:  SQL, Prisma ORM – because organized data and smooth database interactions make everything better.
 - **Other Cool Tools**: Figma (designing is fun too!), Git, GitHub,
-- **IDEs**: I primarily work in Neovim, enhancing productivity with its powerful features, alongside using VSCode for specific tasks,
+- **IDEs**: I primarily work in VSCode, enhancing productivity with its powerful features, alongside using NeoVim for specific tasks,
 - **Operating System**: I primarily use macOS for development, as it offers a stable and powerful environment. I am also experienced with Windows and Linux systems, I use Ghostty terminal with Fish shell btw.
   
 <div align=center>
@@ -96,8 +79,6 @@ I’m all about clean code, user-friendly designs, and solutions that make a dif
 
 I’d love to hear from you, whether it’s feedback on my work, collaboration ideas, or just to say hi. Here’s where you can find me:   
 - **GitHub**: [xf6i](https://github.com/xf6i)
-- **LinkedIn**: [in/yaturbi](https://www.linkedin.com/in/yaturbi/)
-
 
 Thanks for stopping by! 😊  
 
@@ -142,21 +123,21 @@ flowchart TD
 
 
 
-<details>
+<!-- <details>
   <summary>👾 Github Status</summary>
    <br>
-   <div align="center"> 
+   <div align="center"> -->
 
 
       
 <!-- ![status](https://api.statusbadges.me/badge/status/1200487906305904712?style=for-the-badge&labelColor=0D1117)
 ![vscode](https://api.statusbadges.me/badge/vscode/1200487906305904712?style=for-the-badge&labelColor=0D1117)
 [![spotify](https://api.statusbadges.me/badge/spotify/1200487906305904712?style=for-the-badge&labelColor=0D1117)](https://api.statusbadges.me/openspotify/1200487906305904712) -->
-</div>
+<!-- </div>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=xf6i&show_icons=true&count_private=true&bg_color=0d1117&color=50CEFF&line=076FA5&point=3F005C&area=true&hide_border=true" alt="snkfranco github stats" /> 
   <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xf6i&layout=compact&bg_color=0d1117&color=50CEFF&line=076FA5&point=3F005C&area=true&hide_border=true" />
-</div> 
+</div>  --> -->
 <!--
 ## GitHub Trophy
 <div align="center"
