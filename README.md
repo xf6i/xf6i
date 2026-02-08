@@ -15,6 +15,26 @@
 
 </div>
 
+
+## 🛠️ What I Work With 
+Principal orchestrator of multidimensional computational frameworks, specializing in abstract system alignment, semantic elasticity, and large-scale interpretive execution.
+Previously oversaw the strategic decomposition of hyper-complex technical ecosystems within internationally recognized yet conveniently undefinable institutions.
+Appointed primary steward of cross-functional leadership structures, with a proven record of directing direction itself.
+
+Currently Exploring
+- Systemic disorientation modeling within industrial contexts
+- Probabilistic execution strategies under extreme uncertainty
+- Elevated abstraction methodologies applied to nonlinear mathematical constructs
+- State-transition fluidity in conceptual and operational domains
+- Meta-analytical recursion
+- Rattus norvegicus (infrastructure-adjacent variants)
+- Presence-driven software manifestation
+  
+<div align=center>
+
+· · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+</div>
+
 <table>
   <tr>
     <td>
@@ -45,47 +65,6 @@ const AboutMe = {
 ︶⊹︶︶୨୧︶︶⊹︶
 </div>
 
-## 🛠️ What I Work With 
-
-I love building stuff and solving problems using:  
-- **Frontend**: HTML, CSS, JavaScript, React – I focus on functionality and usability; styling is not really my thing. I build features, not color palettes. 
-- **Backend**: Javascript (Node.js, Bun.js, Express, Hono..) - I focus on developing scalable and efficient server-side logic,
-- **Databases**:  SQL, Prisma ORM – because organized data and smooth database interactions make everything better.
-- **Other Cool Tools**: Figma (designing is fun too!), Git, GitHub,
-- **IDEs**: I primarily work in VSCode, enhancing productivity with its powerful features, alongside using NeoVim for specific tasks,
-- **Operating System**: I primarily use macOS for development, as it offers a stable and powerful environment. I am also experienced with Windows and Linux systems, I use Ghostty terminal with Fish shell btw.
-  
-<div align=center>
-
-· · ────── ꒰ঌ·✦·໒꒱ ────── · ·
-</div>
-
-## 👩‍💻 About Me  
-
-When I’m not coding, I’m probably:  
-- Learning something new (there’s always more to learn, right?)  
-- Tinkering with design tools like Figma  
-- Diving into open-source projects  
-
-I’m all about clean code, user-friendly designs, and solutions that make a difference.  
-
-
-<div align=center>
-
-· · ────── ꒰ঌ·✦·໒꒱ ────── · ·
-</div>
-
-## 🤝 Let’s Connect!  
-
-I’d love to hear from you, whether it’s feedback on my work, collaboration ideas, or just to say hi. Here’s where you can find me:   
-- **GitHub**: [xf6i](https://github.com/xf6i)
-
-Thanks for stopping by! 😊  
-
-<div align=center>
-
-· · ────── ꒰ঌ·✦·໒꒱ ────── · ·
-</div>
 
 
   >  ### Programming isn’t about what you know; it’s about what you can figure out.
