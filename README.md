@@ -16,7 +16,6 @@
 </div>
 
 
-## 🛠️ What I Work With 
 Principal orchestrator of multidimensional computational frameworks, specializing in abstract system alignment, semantic elasticity, and large-scale interpretive execution.
 Previously oversaw the strategic decomposition of hyper-complex technical ecosystems within internationally recognized yet conveniently undefinable institutions.
 Appointed primary steward of cross-functional leadership structures, with a proven record of directing direction itself.
